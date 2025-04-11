@@ -44,4 +44,3 @@ fig, ax = plt.subplots()
 create_wave()
 ani = animation.FuncAnimation(fig, animate, frames=100, interval=50)
 plt.show()
-456
